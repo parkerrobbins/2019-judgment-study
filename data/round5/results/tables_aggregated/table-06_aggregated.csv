@@ -1,0 +1,8 @@
+"Time results were received","MD5 hash of participants IP address","Controller name","Item number","Element number","Type","Group","PennElementType","PennElementName","Parameter","Value","EventTime","uniqueid","Comments"
+1552756223,280,"PennController",6,0,"feedback","NULL","PennController",4,"_Trial_","Start",1552756220039,"pkchyclxxgscq80exyic","NULL"
+1552756223,280,"PennController",6,0,"feedback","NULL","TextInput","feedback","Final","You are welcome to leave any feedback you have here.",1552756222750,"pkchyclxxgscq80exyic","NULL"
+1552756223,280,"PennController",6,0,"feedback","NULL","PennController",4,"_Trial_","End",1552756222750,"pkchyclxxgscq80exyic","NULL"
+1552757357,281,"PennController",6,0,"feedback","NULL","PennController",4,"_Trial_","Start",1552757342570,"3dhove31xvddswcsp71lb","NULL"
+1552757357,281,"PennController",6,0,"feedback","NULL","TextInput","feedback","Final","N/A",1552757353561,"3dhove31xvddswcsp71lb","NULL"
+1552757357,281,"PennController",6,0,"feedback","NULL","TextInput","feedback","First","You are welcome to leave any feedback you have here.",1552757350573,"3dhove31xvddswcsp71lb",8
+1552757357,281,"PennController",6,0,"feedback","NULL","PennController",4,"_Trial_","End",1552757353561,"3dhove31xvddswcsp71lb","NULL"

@@ -1,0 +1,63 @@
+"VersionA","VersionB","type","trial_label"
+"The talented musician was a performer who on some days would sing opera.","The talented musician was a performer who would sing opera on some days.","filler",1
+"Each new adventure is an experience that at the start will feel uncomfortable.","Each new adventure is an experience that will feel uncomfortable at the start.","filler",2
+"That old song was a tune that by the end would sound familiar.","That old song was a tune that would sound familiar by the end.","filler",3
+"That abstract painting was a work that after a minute would look boring.","That abstract painting was a work that would look boring after a minute.","filler",4
+"The delicate pastry is a food that before too long could lose flavor.","The delicate pastry is a food that could lose flavor before too long.","filler",5
+"A guard dog is a pet that during the night must keep watch.","A guard dog is a pet that must keep watch during the night.","filler",6
+"That quiet teenager was an employee who at closing time would wash dishes.","That quiet teenager was an employee who would wash dishes at closing time.","filler",7
+"The beautiful wedding was an event that for some time will be remembered.","The beautiful wedding was an event that will be remembered for some time.","filler",8
+"That stubborn stain is an annoyance that by this point should be gone.","That stubborn stain is an annoyance that should be gone by this point.","filler",9
+"The chocolate cake is a dessert that later this evening must be baked.","The chocolate cake is a dessert that must be baked later this evening.","filler",10
+"The young man was a student who in the library would read books.","The young man was a student who would read books in the library.","filler",11
+"The older customer was a patron who at this cafe would sip coffee.","The older customer was a patron who would sip coffee at this cafe.","filler",12
+"The stern captain is the officer who on the boat could give orders.","The stern captain is the officer who could give orders on the boat.","filler",13
+"The young intellectual is a writer who in the park would write poetry.","The young intellectual is a writer who would write poetry in the park.","filler",14
+"The serious weightlifter was an athlete who at the gym would rarely speak.","The serious weightlifter was an athlete who would rarely speak at the gym.","filler",15
+"The new teacher is a vocalist who at this school will teach music.","The new teacher is a vocalist who will teach music at this school.","filler",16
+"The amateur chef was a cook who in the kitchen would develop recipes.","The amateur chef was a cook who would develop recipes in the kitchen.","filler",17
+"The experienced artist is a master who by the statue will paint portraits.","The experienced artist is a master who will paint portraits by the statue.","filler",18
+"That gray squirrel was a creature that near the tree would bury nuts.","That gray squirrel was a creature that would bury nuts near the tree.","filler",19
+"The post office was a service that around the world would deliver letters.","The post office was a service that would deliver letters around the world.","filler",20
+"That rare edition was a book  which the collector would always look out for.","That rare edition was a book  out for which the collector would always look.","particle",1
+"This new technology is a subject which all professionals must tirelessly keep up with.","This new technology is a subject up with which all professionals must tirelessly keep.","particle",2
+"The first snowfall was an event which my brother would impatiently look forward to.","The first snowfall was an event forward to which my brother would impatiently look.","particle",3
+"The popular shampoo was a product which the store would regularly run out of.","The popular shampoo was a product out of which the store would regularly run.","particle",4
+"This secure cell was an area which no prisoner could ever break out of.","This secure cell was an area out of which no prisoner could ever break.","particle",5
+"Her first birthday is an event which her dad must unfortunately miss out on.","Her first birthday is an event out on which her dad must unfortunately miss.","particle",6
+"The unsigned contract is a deal which the businesswoman could still back out of.","The unsigned contract is a deal out of which the businesswoman could still back.","particle",7
+"The  upcoming release is an update which the programmer will gladly help out with.","The  upcoming release is an update out with which the programmer will gladly help.","particle",8
+"The difficult hike is a challenge which any adventurer should carefully gear up for.","The difficult hike is a challenge up for which any adventurer should carefully gear.","particle",9
+"The tough test was a milestone which no student could ever feel up to.","The tough test was a milestone up to which no student could ever feel.","particle",10
+"My friendly uncle is a relative whom most everyone can easily get along with.","My friendly uncle is a relative along with whom most everyone can easily get.","particle",11
+"This kind woman was a friend whom my aunt would frequently catch up with.","This kind woman was a friend up with whom my aunt would frequently catch.","particle",12
+"Their dishonest mother was a liar whom the children could never make up with.","Their dishonest mother was a liar up with whom the children could never make.","particle",13
+"A real friend is someone whom you must consistently stick up for.","A real friend is someone up for whom you must consistently stick.","particle",14
+"That timid accountant was the employee whom the boss would always talk down to.","That timid accountant was the employee down to whom the boss would always talk.","particle",15
+"That bearded man is the teacher whom the substitute would occasionally fill in for.","That bearded man is the teacher in for whom the substitute would occasionally fill.","particle",16
+"That tall carpenter was the gentleman whom my sister would sometimes go out with.","That tall carpenter was the gentleman out with whom my sister would sometimes go.","particle",17
+"The quiet child is a troublemaker whom all babysitters should often check in on.","The quiet child is a troublemaker in on whom all babysitters should often check.","particle",18
+"The expert chef was a master whom any amateur must humbly look up to.","The expert chef was a master up to whom any amateur must humbly look.","particle",19
+"Your strange cousin is a person whom the family must reluctantly put up with.","Your strange cousin is a person up with whom the family must reluctantly put.","particle",20
+"The brilliant compromise is a solution which both sides could happily agree on.","The brilliant compromise is a solution on which both sides could happily agree.","prepositional",1
+"The exhausting trip was a vacation which my friends will barely recover from.","The exhausting trip was a vacation from which my friends will barely recover.","prepositional",2
+"The antique painting was a piece which the critic would closely stare at.","The antique painting was a piece at which the critic would closely stare.","prepositional",3
+"The careful argument was a statement which no opponent could easily argue with.","The careful argument was a statement with which no opponent could easily argue.","prepositional",4
+"The charming neighborhood was a district which young couples could comfortably live in.","The charming neighborhood was a district in which young couples could comfortably live.","prepositional",5
+"The new plan is a project which the mayor should immediately work on.","The new plan is a project on which the mayor should immediately work.","prepositional",6
+"The monthly journal is a magazine which all experts should definitely subscribe to.","The monthly journal is a magazine to which all experts should definitely subscribe.","prepositional",7
+"The rare bird is a species which every biologist should enthusiastically teach about.","The rare bird is a species about which every biologist should enthusiastically teach.","prepositional",8
+"The controversial issue was a topic which few activists would openly fight for.","The controversial issue was a topic for which few activists would openly fight.","prepositional",9
+"The  new method is a technique which all surgeons should eagerly learn about.","The  new method is a technique about which all surgeons should eagerly learn.","prepositional",10
+"Her impatient sister is a companion whom few people would willingly travel with.","Her impatient sister is a companion with whom few people would willingly travel.","prepositional",11
+"My intimidating professor is an expert whom no student can confidently speak to.","My intimidating professor is an expert to whom no student can confidently speak.","prepositional",12
+"Her well-behaved daughter is an angel whom most babysitters would gladly care for.","Her well-behaved daughter is an angel for whom most babysitters would gladly care.","prepositional",13
+"That retired teacher is the customer whom the server would often wait on.","That retired teacher is the customer on whom the server would often wait.","prepositional",14
+"The careful bicyclist is an athlete whom no accident could ever happen to.","The careful bicyclist is an athlete to whom no accident could ever happen.","prepositional",15
+"That foster parent was a guardian whom many children could reliably depend on.","That foster parent was a guardian on whom many children could reliably depend.","prepositional",16
+"The master violinist was a musician whom few professionals could really compare to.","The master violinist was a musician to whom few professionals could really compare.","prepositional",17
+"The friendly star was a figure whom many fans would regularly write to.","The friendly star was a figure to whom many fans would regularly write.","prepositional",18
+"The unpredictable politician was a candidate whom most people would never vote for.","The unpredictable politician was a candidate for whom most people would never vote.","prepositional",19
+"The offensive comedian was an entertainer whom no audience would generally laugh at.","The offensive comedian was an entertainer at whom no audience would generally laugh.","prepositional",20
+"If you're reading this, please select this sentence.","If you're reading this, please select the other sentence.","catch",1
+"If you're reading this, do not select the other sentence, select this one.","If you're reading this, do not select this sentence.","catch",2

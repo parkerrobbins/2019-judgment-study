@@ -1,0 +1,7 @@
+"Time results were received","MD5 hash of participants IP address","Controller name","Item number","Element number","Type","Group","PennElementType","PennElementName","Parameter","Value","EventTime","Comments"
+1552756223,280,"PennController",67,0,"instruction_check","NULL","PennController",5,"_Trial_","Start",1552755372008,"NULL"
+1552756223,280,"PennController",67,0,"instruction_check","NULL","Selector","instruction_verification","Selection","choice2",1552755388217,"NULL"
+1552756223,280,"PennController",67,0,"instruction_check","NULL","PennController",5,"_Trial_","End",1552755389552,"NULL"
+1552757357,281,"PennController",67,0,"instruction_check","NULL","PennController",5,"_Trial_","Start",1552756988745,"NULL"
+1552757357,281,"PennController",67,0,"instruction_check","NULL","Selector","instruction_verification","Selection","choice2",1552757004102,"NULL"
+1552757357,281,"PennController",67,0,"instruction_check","NULL","PennController",5,"_Trial_","End",1552757005480,"NULL"
