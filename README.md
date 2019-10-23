@@ -4,3 +4,5 @@ This repository contains the code and data for my Honors Senior Project, The Eff
 The Ibex Farm experiment, data cleaning scripts and analysis script are under `Code`.
 
 The anonymized participant data is under `Data`.
+
+Presentations that I've given related to this project are contained under `Posters-and-Slides`.
